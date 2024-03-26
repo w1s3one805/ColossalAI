@@ -1,7 +1,7 @@
-torch==1.12.1
+torch==1.13.1
 colossalai
 titans
 pulp
 datasets
 matplotlib
-transformers==4.22.1
+transformers==4.36.0
